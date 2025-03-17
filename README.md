@@ -14,7 +14,7 @@
         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="65" height="65"/> 
   </a> 
-      <a href="https://github.com/pt-TeamEra" target="_blank" rel="noreferrer">
+      <a href="https://github.com/azayraTeam" target="_blank" rel="noreferrer">
     <img src="https://umaera.github.io/icons/new-pack-icons/tile.justafrog.png" alt="JustAFrog (Jaf)" width="65" height="65"/>
   </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -26,7 +26,7 @@
       <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/?size=512&id=t7vIvDXazOGO&format=png" alt="rust" width="65" height="65"/> 
   </a>
-    <a href="https://github.com/pt-TeamEra" target="_blank" rel="noreferrer"> 
+    <a href="https://github.com/azayraTeam" target="_blank" rel="noreferrer"> 
     <img src="https://umaera.github.io/icons/new-pack-icons/tile.iridium.png" alt="Iridium-Lang" width="65" height="65"/> 
     <img src="https://umaera.github.io/icons/new-pack-icons/tile.hydrogen.png" alt="Hydrogen" width="65" height="65"/> 
   </a>
