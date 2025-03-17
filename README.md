@@ -1,8 +1,9 @@
 # ⭐UmaEra here!⭐ 
 ### "blindly following my curiosity,"
-### an portuguese indie sofware engineer, currently working in my best project yet ✨[**SimplyPrivate**](https://github.com/notyarazi/simplyprivate)✨
+### an portuguese indie software engineer, check out my best project yet: ✨[**SimplyPrivate**](https://github.com/notyarazi/simplyprivate)✨.
+### working on something big nammed "Pupl".
 
-<h2 align="center"> {Things i use }</h2>
+<h2 align="center"> { Things i use }</h2>
 <p align="center"> 
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="65" height="65"/> 
@@ -42,8 +43,8 @@
 <a href="https://www.azayra.github.io/LMA" target="_blank" rel="noreferrer"> 
     <img src="https://umaera.github.io/icons/lib-icons/LMA.png" alt="LMA (Projeto Modular Autonomo)" width="65" height="65"/> 
 </a> 
-<a href="https://www.azayra.github.io/OXIDE" target="_blank" rel="noreferrer"> 
-    <img src="https://umaera.github.io/icons/m-icons/Static.gif" alt="OXIDE" width="65" height="65"/> 
+<a href="https://github.com/azayraTeam/Pupl" target="_blank" rel="noreferrer"> 
+    <img src="https://umaera.github.io/icons/m-icons/Static.gif" alt="pupl" width="65" height="65"/> 
 </a> 
 <a href="https://www.azayra.github.io/jaf" target="_blank" rel="noreferrer"> 
     <img src="https://umaera.github.io/icons/new-pack-icons/tile.justafrog.png" alt="JAF (JustAFrog)" width="65" height="65"/> 
@@ -61,7 +62,7 @@
 <a href="https://x.com/NotYaraziOnTw" target="_blank" rel="noreferrer"> 
     <img src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt="@NotYaraziOnTw" width="65" height="65"/> 
 </a>
-<a href="https://discord.com/invite/XjvVs2RHqH" target="_blank" rel="noreferrer"> 
+<a href="https://discord.com" target="_blank" rel="noreferrer"> 
     <img src="https://images.icon-icons.com/2108/PNG/512/discord_icon_130958.png" alt="" width="65" height="65"/> 
 </a>     
 <a href="https://www.twitch.tv/umaeradev" target="_blank" rel="noreferrer"> 
