@@ -33,7 +33,7 @@
 
 <h2 align="center"> { Hella good projects }</h2>
 <p align="center"> 
-<a href="https://www.simplprivate.github.io" target="_blank" rel="noreferrer"> 
+<a href="https://www.simplyprivate.github.io" target="_blank" rel="noreferrer"> 
     <img src="https://umaera.github.io/icons/app-icons/scah.png" alt="SimplyPrivate" width="50" height="50"/> 
 </a> 
 <a href="https://www.azayra.github.io/RubyAI" target="_blank" rel="noreferrer"> 
@@ -61,7 +61,7 @@
 <a href="https://x.com/NotYaraziOnTw" target="_blank" rel="noreferrer"> 
     <img src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt="@NotYaraziOnTw" width="50" height="50"/> 
 </a>
-<a href="https://discord.com" target="_blank" rel="noreferrer"> 
+<a href="https://discord.gg/XjvVs2RHqH" target="_blank" rel="noreferrer"> 
     <img src="https://images.icon-icons.com/2108/PNG/512/discord_icon_130958.png" alt="" width="50" height="50"/> 
 </a>     
 <a href="https://www.twitch.tv/umaeradev" target="_blank" rel="noreferrer"> 
