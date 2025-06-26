@@ -1,6 +1,6 @@
 # ⭐UmaEra here!⭐ - "blindly following my curiosity,"
 ### an portuguese indie software engineer, check out my best project yet: ✨[**SimplyPrivate**](https://github.com/notyarazi/simplyprivate)✨.
- working on something big nammed "Pupl".
+ working on something big nammed "PuplProject".
 
 <h2 align="center"> { Things i use }</h2>
 <p align="center"> 
