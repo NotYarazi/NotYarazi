@@ -1,6 +1,7 @@
 # 💛 Hey, UmaEra here! 💛
+*"Blindly following my curiosity"*
 
-**Portuguese indie software engineer** • *"Blindly following my curiosity"*
+**Software engineer** • **Digital Artist/Designer** • **Animator** & **Music designer**
 
 Welcome to my corner of GitHub! I'm passionate about building privacy-focused tools and making things that might help someone (even if small). 
 <p></p>
@@ -63,7 +64,7 @@ Currently working on some exciting projects that blend creativity with functiona
 <a href="https://youtube.com/@umaera0" target="_blank" rel="noreferrer"> 
     <img src="https://static.vecteezy.com/system/resources/thumbnails/023/986/480/small_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png" alt="@umaEra0" width="40"/> 
 </a> 
-<a href="https://discord.gg/XjvVs2RHqH" target="_blank" rel="noreferrer"> 
+<a href="https://discord.com/users/879514090450587669" target="_blank" rel="noreferrer"> 
     <img src="https://images.icon-icons.com/2108/PNG/512/discord_icon_130958.png" alt="Discord Community" width="40"/> 
 </a>     
 <a href="mailto:umaera.dev@gmail.com" target="_blank" rel="noreferrer"> 
@@ -72,6 +73,6 @@ Currently working on some exciting projects that blend creativity with functiona
 </p>
 
 **Instagram**: [@umaera.dev](https://instagram.com/umaera.dev) • **YouTube**: [@umaera0](https://youtube.com/@umaera0)  
-**Discord**: [Join my community](https://discord.gg/XjvVs2RHqH) • **Email**: [umaera.dev@gmail.com](mailto:umaera.dev@gmail.com)
+**Discord**: [Discord User](https://discord.com/users/879514090450587669) • **Email**: [umaera.dev@gmail.com](mailto:umaera.dev@gmail.com)
 
 ---
