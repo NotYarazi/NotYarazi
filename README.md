@@ -1,4 +1,4 @@
-# 💛 Hey, UmaEra here! 💛
+# # Hey, UmaEra here!
 *"Blindly following my curiosity"*
 
 **Software engineer** • **Digital Artist/Designer** • **Animator** & **Music designer**
@@ -11,7 +11,7 @@ Currently working on some exciting projects that blend creativity with functiona
 
 ---
 
-## Featured Projects
+## # Featured Projects
 
 <p> 
 <a href="https://simplyprivate.github.io" target="_blank" rel="noreferrer"> 
@@ -29,33 +29,18 @@ Currently working on some exciting projects that blend creativity with functiona
 </p>
 
 **SimplyPrivate** - Oversimplified Browser that deletes all data opon closing.  
-**LMA** - Ai powered 3d simulation & presentation generation desktop app  
+**LMA** (not avaliable) - Ai powered 3d simulation & presentation generation desktop app  
 **Oriana.ai** - An simple ai powered terminal with convenient tools  
-**Room21** - A Anonymous Interactive chat platform  
+**Room21** - A Anonymous Interactive chat platform
 
-## Technologies & Tools
+## # Technologies & Tools i use
+**Design**: Figma • Piskel • Gimp • blockbench
 
-<p> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"/> 
-</a> 
-<a href="https://github.com/azayraTeam" target="_blank" rel="noreferrer">
-    <img src="https://umaera.github.io/icons/new-pack-icons/tile.justafrog.png" alt="JustAFrog (Jaf)" width="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/> 
-</a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn-icons-png.freepik.com/512/15379/15379746.png" alt="nodejs" width="40"/> 
-</a> 
-<a href="https://rust-lang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/?size=512&id=t7vIvDXazOGO&format=png" alt="rust" width="40"/> 
-</a>
-</p>
+**Languages**: JavaScript • Rust • Python
 
-**Design**: Figma • **Languages**: JavaScript, Rust • **Runtime**: Node.js, JustAFrog (JAF)
+**Runtime**: Node.js • Cargo • JustAFrog (JAF)
 
-## Let's Connect
+## # Let's Connect
 
 <p> 
 <a href="https://instagram.com/umaera.dev" target="_blank" rel="noreferrer"> 
