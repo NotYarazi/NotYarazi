@@ -1,19 +1,24 @@
 # # Hey, UmaEra here!
-*"Blindly following my curiosity"*
-
 **Software engineer** • **Digital Artist/Designer** • **Animator** & **Music designer**
 
 Welcome to my corner of GitHub! I'm passionate about building privacy-focused tools and making things that might help someone (even if small). 
 <p></p>
-Currently working on some exciting projects that blend creativity with functionality.
+Currently working on some exciting projects that just integrate with utility, personality & respect for you!
 
-🚀 **Currently Building**: [Oriana.ai](https://github.com/PuplProject/Oriana.Terminal) - An AI-powered terminal assistant
+🚀 **Currently Building**:
+
+[OceanBoard](https://umaera.github.io/OceanBoard) - A small web tool to help writers and creative minds, while keeping everything local and secure.
+
+[BubblePlay](https://bubbleplay.pages.dev/) - Music Platform without ads, tracking and compleatly local.
 
 ---
 
 ## # Featured Projects
 
 <p> 
+<a href="https://umaera.github.io/OceanBoard" target="_blank" rel="noreferrer"> 
+    <img src="https://umaera.github.io/icons/@projects/@OceanBoard/Icon-pink.png" alt="OceanBoard" width="60"/> 
+</a> 
 <a href="https://simplyprivate.github.io" target="_blank" rel="noreferrer"> 
     <img src="https://umaera.github.io/icons/app-icons/scah.png" alt="SimplyPrivate" width="60"/> 
 </a> 
@@ -39,25 +44,3 @@ Currently working on some exciting projects that blend creativity with functiona
 **Languages**: JavaScript • Rust • Python
 
 **Runtime**: Node.js • Cargo • JustAFrog (JAF)
-
-## # Let's Connect
-
-<p> 
-<a href="https://instagram.com/umaera.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" alt="@umaera.dev" width="40"/> 
-</a> 
-<a href="https://youtube.com/@umaera0" target="_blank" rel="noreferrer"> 
-    <img src="https://static.vecteezy.com/system/resources/thumbnails/023/986/480/small_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png" alt="@umaEra0" width="40"/> 
-</a> 
-<a href="https://discord.com/users/879514090450587669" target="_blank" rel="noreferrer"> 
-    <img src="https://images.icon-icons.com/2108/PNG/512/discord_icon_130958.png" alt="Discord Community" width="40"/> 
-</a>     
-<a href="mailto:umaera.dev@gmail.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email" width="40"/> 
-</a> 
-</p>
-
-**Instagram**: [@umaera.dev](https://instagram.com/umaera.dev) • **YouTube**: [@umaera0](https://youtube.com/@umaera0)  
-**Discord**: [Discord User](https://discord.com/users/879514090450587669) • **Email**: [umaera.dev@gmail.com](mailto:umaera.dev@gmail.com)
-
----
