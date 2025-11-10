@@ -41,6 +41,6 @@ Currently working on some exciting projects that just integrate with utility, pe
 ## # Technologies & Tools i use
 **Design**: Figma • Piskel • Gimp • blockbench
 
-**Languages**: JavaScript • Rust • Python
+**Languages**: JavaScript/TypeScript • Rust • Python
 
 **Runtime**: Node.js • Cargo • JustAFrog (JAF)
