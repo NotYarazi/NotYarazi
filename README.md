@@ -1,5 +1,5 @@
 # # Hey, m4iva here!
-## This is not my main account, visit [@everm4iva](https://github.com/everm4iva) to get the latest version of some projects and some new ones
+### ! This is not my main account, visit [@everm4iva](https://github.com/everm4iva) to get new projects and updates for the existing ones !
 aka: UmaEra/NotYarazi/everm4iva / **Software engineer** • **Digital Artist/Designer** • **Animator** & **Music designer**
 
 Welcome to my corner of GitHub! I'm passionate about building privacy-focused tools and making things that might help someone (even if small). 
